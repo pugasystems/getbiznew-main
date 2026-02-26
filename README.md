@@ -32,7 +32,7 @@ yarn install
 yarn dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) in your browser.
+Open [http://localhost:3001](http://localhost:3001) in your browser.
 
 ### Build
 
@@ -66,7 +66,7 @@ src/
 Create a `.env.local` file in the root with the required variables:
 
 ```env
-NEXTAUTH_URL=http://localhost:3000
+NEXTAUTH_URL=http://localhost:3001
 NEXTAUTH_SECRET=your-secret
 NEXT_PUBLIC_API_URL=http://localhost:5000
 ```
