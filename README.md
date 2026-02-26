@@ -71,6 +71,15 @@ NEXTAUTH_SECRET=your-secret
 NEXT_PUBLIC_API_URL=http://localhost:5000
 ```
 
+## Production
+
+| Resource | URL |
+|---|---|
+| **Live Site** | https://getbizzusa.com |
+| **API** | https://api.getbizzusa.com |
+
+Served via Nginx reverse proxy → `localhost:3001`
+
 ## License
 
 Private — All rights reserved © GetBizUSA
